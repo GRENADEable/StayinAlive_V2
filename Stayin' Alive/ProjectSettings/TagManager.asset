@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Clue1 (OC)
+  - Clue3 (OC)
+  - Clue1
+  - Clue4
+  - Clue2
+  - Clue3
+  - Clue4 (OC)
+  - Clue2 (OC)
+  - AreaC2
+  - AreaA1
+  - AreaG6
+  - AreaB1
+  - AreaE1
+  - AreaG10
+  - AreaA2
+  - AreaG4
+  - AreaF6
+  - AreaD3
+  - AreaG9
+  - AreaH2
+  - AreaG3
+  - AreaG7
+  - ClueObservation
+  - AreaG2
+  - AreaD2
+  - AreaG1
+  - ObservationCam
+  - AreaG8
+  - AreaE2
+  - AreaF4
+  - BackToOffice
+  - AreaB3
+  - AreaG5
+  - AreaD1
+  - AreaH1
+  - AreaF1
+  - AreaC1
+  - AreaF2
+  - AreaA3
+  - AreaB2
+  - AreaH3
+  - AreaF5
+  - AreaF3
+  - AreaC3
+  - AreaD5
+  - AreaD4
+  - AreaC4
+  - KeyItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
